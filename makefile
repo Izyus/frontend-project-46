@@ -1,2 +1,2 @@
 help: 
-	node gendiff.js -h
+	node src/gendiff.js -h
